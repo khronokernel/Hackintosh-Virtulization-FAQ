@@ -1,6 +1,6 @@
 # Hackintosh-Virtulization-FAQ
 
-So I felt I needed to make this post after I noticed quite a few posts on this subreddit asking fairly basic questions over and over again so I feel we should try and clear up any questions and concerns people have about running MacOs in a VM over running bare metal.
+So I felt I needed to make this post after I noticed quite a few posts in the hackintosh community asking fairly basic questions over and over again so I feel we should try and clear up any questions and concerns people have about running MacOs in a VM over running bare metal.
 
 # So what’s the difference between a bare metal Hackintosh and running a hypervisor?
 
