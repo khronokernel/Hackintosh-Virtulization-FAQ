@@ -75,10 +75,6 @@ For most people, no. Hackintoshing is a far safer option for the reason that the
 
 * Yes, in a sense each virtual machine is an image so you can compress, move them around and load them onto another system without much issue
 
-**Is God dead?**
-
-* If the Soviet Union has taught me anything, yes
-
 **Can I Hackintosh and then run it in a VM?**
 
 * Yes, though you'll want to remove some kexts that aren't needed like FakeSMC
